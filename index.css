@@ -1,0 +1,12 @@
+body{
+  background: #333;color:#eee;
+  -webkit-perspective: 800; 
+  perspective: 800; }
+div{
+  background:url(http://www.wakfupedia.com/public/upload/cards/fr/pandala/12-[wakfu-tcg]-ranger-vert.png);
+  background-size: 100% 100%;
+  width:120px;
+  height:180px;
+  position:absolute;
+  top:0;left:0;  
+}
